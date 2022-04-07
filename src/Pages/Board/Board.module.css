@@ -1,0 +1,30 @@
+.board {
+  height: 100%;
+  width: 80%;
+  transition: width 0.3s;
+}
+
+.sideBarClose {
+  width: 100%;
+  transition: width 0.3s;
+}
+
+.m {
+  margin-top: 50px;
+}
+
+.addNewCardModule {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100%;
+}
+
+.leftArrow {
+  background: #7e8e6c9e;
+  margin-top: 20px;
+  padding: 6px;
+  box-shadow: 3px 3px 8px 4px #d2c9c2;
+  border-radius: 4px 0px 0px 4px;
+  height: fit-content;
+}

@@ -1,0 +1,11 @@
+.taskText {
+  margin: 5px;
+  border: 1px solid #c7c7c7;
+  padding: 5px;
+  border-radius: 5px;
+  background: white;
+}
+
+.taskText:hover {
+  cursor: pointer;
+}

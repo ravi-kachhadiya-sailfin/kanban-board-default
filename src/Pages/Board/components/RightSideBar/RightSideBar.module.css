@@ -1,0 +1,31 @@
+.rightSideBarLayout {
+  height: 100%;
+  background: #edf2f7;
+  width: 300px;
+  border-bottom-left-radius: 10px;
+  box-shadow: 3px 3px 8px 4px #9a9be0db;
+  transition: width 0.3s;
+  -webkit-transition: width 0.3s;
+}
+
+.rightSideBarLayoutClose {
+  width: 0;
+  transition: width 0.3s;
+  -webkit-transition: width 0.3s;
+}
+
+.title {
+  background: #c5cac6;
+  border-radius: 5px 5px 0px 0px;
+  margin: 1px;
+}
+
+.firstPartition {
+  height: 98%;
+  overflow-y: s;
+  margin: 0px 1px;
+  margin-bottom: 100px;
+  background-color: aquamarine;
+  /* background: aqua; */
+  /* border-bottom: 1px solid #d4d2d2; */
+}

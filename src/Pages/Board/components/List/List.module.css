@@ -1,0 +1,25 @@
+.card {
+  border: 2px solid #c5cac6d7;
+  height: 700px;
+  width: 300px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 10px 3px #d2c9c2;
+  padding-bottom: 10px;
+}
+
+.title {
+  background: #c5cac6;
+  border-radius: 5px 5px 0px 0px;
+  margin: 1px;
+}
+
+.firstPartition {
+  height: 300px !important;
+  overflow: auto !important;
+  margin: 0px 1px;
+  border-bottom: 1px solid #d4d2d2;
+}
+
+.oddBackground {
+  background-color: rgb(233, 211, 183);
+}
