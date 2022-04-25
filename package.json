@@ -24,7 +24,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "server" "npm install -g serve && serve -s build",
+    "server": "npm install -g serve && serve -s build",
     "lint": "eslint src",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
