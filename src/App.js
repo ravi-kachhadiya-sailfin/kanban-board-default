@@ -10,7 +10,7 @@ function App() {
   }
   return (
     <div className="App">
-      <h1>Kanban Board</h1>
+      <h1>Kanban Board App</h1>
       <Board />
     </div>
   );
